@@ -17,4 +17,5 @@ Figure: Calculator Appearance
 
 
 ![Overall Looking](https://github.com/huseyinTozluyurt/ArduinoProjects/blob/7f3cf068047b3dc86966006c434972c3cd198731/CapacitiveTouchCalculator/Picture2.png)
+
 Figure: Calculator and Capacitive Touch Sensor Panaromic Vision
