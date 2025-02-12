@@ -12,3 +12,5 @@ library called Capacitive Sensor by Paul Badger and Paul Stoffregen.
 - 16 x 2 LCD screen with I2C module
 - 2 conductive materials as capacitive sensor connected to the Arduino
 - Wires
+
+![Operational](https://github.com/huseyinTozluyurt/ArduinoProjects/blob/08b3da1e00f87a1cc37251c62887098571576f8e/CapacitiveTouchCalculator/Picture1.png)
