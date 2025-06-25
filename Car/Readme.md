@@ -13,10 +13,10 @@ This project allows you to control two DC motors using an IR remote and an Ardui
 - Arduino Uno (or compatible)
 - L298N Motor Driver Module
 - 2x DC Motors
-- IR Receiver (TSOP1838 or similar)
+- IR Receiver 
 - IR Remote Control
 - Jumper Wires
-- External Power Supply (if needed)
+- External Power Supply (Duracell)
 
 ## 🔌 Pin Configuration
 
