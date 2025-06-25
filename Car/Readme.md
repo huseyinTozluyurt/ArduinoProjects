@@ -4,7 +4,7 @@ This project allows you to control two DC motors using an IR remote and an Ardui
 
 ## 📹 Demo Video
 
-👉 [Watch the Demo Video]()
+👉 [Watch the Demo Video](https://github.com/huseyinTozluyurt/ArduinoProjects/blob/f6d991a158bde481931ab713786442e86a91473e/Car/Car%20(2).mp4)
 
 > Replace the link above with your actual GitHub video upload link from an issue or discussion.
 
