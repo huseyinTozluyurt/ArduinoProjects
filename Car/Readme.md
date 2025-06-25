@@ -34,10 +34,10 @@ This project allows you to control two DC motors using an IR remote and an Ardui
 
 | IR Code      | Button | Action   |
 |--------------|--------|----------|
-| `0xE718FF00` |   ?    | Forward  |
-| `0xF708FF00` |   ?    | Left     |
-| `0xA55AFF00` |   ?    | Right    |
-| `0xAD52FF00` |   ?    | Backward |
+| `0xE718FF00` |   2    | Forward  |
+| `0xF708FF00` |   4    | Left     |
+| `0xA55AFF00` |   6    | Right    |
+| `0xAD52FF00` |   8    | Backward |
 
 ## 🚀 Setup Instructions
 
